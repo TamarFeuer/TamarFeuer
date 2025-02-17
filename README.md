@@ -1,18 +1,10 @@
 <h1>Hi 👋, I'm Tamar</h1> 
-<h3>A passionate software engineering student from Israel living in the Netherlands</h3>
+<h3>A passionate software engineering student and psychologist, 
+driven by the realization that AI can offer real emotional support -
+perhaps more than we ever expected</h3>
 <img  alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*BHtUovTaQaY2rVRN">
 
 Currently studying in Codam, Amsterdam
-
-- 📚 Imperative Programming in C
-- 📝 Object-Oriented Programming in C++
-- 🏗️ Data Structures & Algorithms
-- ⚙️ Concurrent Programming
-- 🌐 Network Programming
-- 🔄 Networks and Systems Administration
-- 🎨 Graphics Programming
-- 🐧 Linux Operating Systems
-
 <br>
 
 <table><tr><td style="text-align: center; vertical-align: middle;">
